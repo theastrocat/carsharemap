@@ -19,4 +19,4 @@ The subject will be localized to Portland, OR but scalable. I will need up-to-da
 Keeping time series data as well as predicted data and seeing how well they align.
 
 ## Deployment
-A web application where people can go and use the model to look at predicted probabilities.
+A web application where people can go and use the model to look at predicted probabilities. There should be an input for how much area a user is willing to walk for a car. 
