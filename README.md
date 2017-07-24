@@ -1,4 +1,7 @@
-# carsharemap
+_Unfortunately the company data that was to be used for this project has closed their API and will not be issuing new keys for some time._
+
+
+# Car Share Map
 A machine learning model for creating a heat map of probabilities of where you will find car share vehicles throughout the day.
 
 ## Business Understanding
@@ -19,4 +22,4 @@ The subject will be localized to Portland, OR but scalable. I will need up-to-da
 Keeping time series data as well as predicted data and seeing how well they align.
 
 ## Deployment
-A web application where people can go and use the model to look at predicted probabilities. There should be an input for how much area a user is willing to walk for a car. 
+A web application where people can go and use the model to look at predicted probabilities. There should be an input for how much area a user is willing to walk for a car.
